@@ -1,0 +1,11 @@
+---
+title: "Hi, I am Jerin Jacob"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+I was an entrepreneur for 5 years and a marketer for 11 years. I worked in retail, IT industry, car rental, contracting, ecommerce and consulting. When I understood the importance of data, I decided to do a Master's program in Data Science. The Data Analytics and Computational Social Science program gives me the state of the art data science skills to bridge the business world and technology with a social science perspective. This unique combination of skill sets and experience makes me the ideal candidate to help organizations solve problems with well informed, data driven decision making. 
